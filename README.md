@@ -10,7 +10,7 @@ Voici l'ensemble des projets réalisés dans mon parcours à 42 :
 [![GNL](https://img.shields.io/badge/Get__Next__Line-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/gchinaul/get_next_line)  
 ➡️ Lecture ligne par ligne depuis un file descriptor
 
-[![Printf](https://img.shields.io/badge/Printf-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ton-utilisateur/ft_printf)  
+[![Printf](https://img.shields.io/badge/Printf-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/gchinaul/printf)  
 ➡️ Reproduction de la fonction `printf`
 
 [![Born2beroot](https://img.shields.io/badge/Born2beroot-DEBIAN?style=for-the-badge&logo=debian&logoColor=white)]  
