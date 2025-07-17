@@ -4,7 +4,7 @@ Voici l'ensemble des projets réalisés dans mon parcours à 42 :
 
 ### 🌱 Tronc commun
 
-[![Libft](https://img.shields.io/badge/Libft-000000?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ton-utilisateur/libft)  
+[![Libft](https://img.shields.io/badge/Libft-000000?style=for-the-badge&logo=c&logoColor=white)](https://github.com/gchinaul/libft)  
 ➡️ Implémentation de fonctions standard de la libc en C
 
 [![GNL](https://img.shields.io/badge/Get__Next__Line-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ton-utilisateur/get_next_line)  
