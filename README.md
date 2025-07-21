@@ -1,6 +1,6 @@
 # Hello 👋, i am Gabriel
 
-###  C • C++ • Web • Shell
+###  C • C++ • Shell
 
 ### 🛠️ Stack & Outils
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
