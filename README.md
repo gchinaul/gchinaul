@@ -1,6 +1,6 @@
 # Hello 👋, i am Gabriel
 
-###  C • C++ • Shell
+###  42 Student
 
 ### 🛠️ Stack & Outils
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
