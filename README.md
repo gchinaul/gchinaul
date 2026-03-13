@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Site Web]
+Site Web
 [gchinaul.io](https://gchinaul.github.io)
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=gchinaul&show_icons=true&theme=radical)
