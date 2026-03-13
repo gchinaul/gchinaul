@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[🌐 Mon site web](https://gchinaul.github.io)
+[My Web Site](https://gchinaul.github.io)
 
 ## 📊 Statistiques GitHub
 
