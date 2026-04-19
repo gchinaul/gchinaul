@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=160&section=header&text=Gabriel%20%E2%80%94%2042%20Nice&fontSize=44&fontColor=ffffff&desc=Student%20%7C%20Low-level%20programming&descAlignY=75&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=160&section=header&text=Hello, I'am Gabriel%20%E2%80%94%2042%20Nice&fontSize=44&fontColor=ffffff&desc=Student%20%7C%20Low-level%20programming&descAlignY=75&descSize=18"
     alt="Gabriel banner"
   />
 </p>
