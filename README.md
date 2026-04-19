@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'am gabriel, 42 Nice student.
+
 ## Programming Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
