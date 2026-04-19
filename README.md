@@ -23,42 +23,7 @@ I'am gabriel, 42 Nice student.
 ![Linux%20From%20Scratch](https://img.shields.io/badge/Linux%20From%20Scratch-LFS-111111?style=flat)
 ![Kernel%20From%20Scratch](https://img.shields.io/badge/Kernel%20From%20Scratch-KFS-111111?style=flat)
 
-name: Metrics
-on:
-  schedule:
-    - cron: "0 6 * * *"
-  workflow_dispatch:
 
-permissions:
-  contents: write
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: gchinaul
-          template: classic
-          base: header, activity, community, repositories
-
-          # Un rendu "joli" mais pas trop chargé
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          config_timezone: Europe/Paris
-
-          # Le fichier généré dans ton repo
-          filename: metrics.svg
           
 <!--
 **gchinaul/gchinaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
