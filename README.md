@@ -10,11 +10,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## Environnements / Outils
-
-![OS](assets/banner-os.png)
-![Dev](assets/banner-dev.png)
-![From scratch](assets/banner-build.png)
 
 <!--
 **gchinaul/gchinaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
