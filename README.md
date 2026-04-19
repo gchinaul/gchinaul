@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=180&section=header&text=Hello%2C%20I%27m%20Gabriel&fontSize=46&fontColor=ffffff&desc=42 Nice Student%20%7C%20Low-level%20programming&descAlignY=75&descSize=18"
-    alt="Hello, I'm Gabriel banner"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=170&section=header&text=Hello%20I%27m%20Gabriel&fontSize=52&fontColor=ffffff"
+    alt="Hello I'm Gabriel banner"
   />
 </p>
 
