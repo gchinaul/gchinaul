@@ -10,6 +10,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
+## OS / Kernel / Outils
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
+![Unix](https://img.shields.io/badge/Unix-111111?style=flat)
+![Kernel](https://img.shields.io/badge/Kernel-111111?style=flat)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux%20From%20Scratch](https://img.shields.io/badge/Linux%20From%20Scratch-LFS-111111?style=flat)
+![Kernel%20From%20Scratch](https://img.shields.io/badge/Kernel%20From%20Scratch-KFS-111111?style=flat)
 
 <!--
 **gchinaul/gchinaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
