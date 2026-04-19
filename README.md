@@ -23,6 +23,11 @@ I'am gabriel, 42 Nice student.
 ![Linux%20From%20Scratch](https://img.shields.io/badge/Linux%20From%20Scratch-LFS-111111?style=flat)
 ![Kernel%20From%20Scratch](https://img.shields.io/badge/Kernel%20From%20Scratch-KFS-111111?style=flat)
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gchinaul&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gchinaul&layout=compact&theme=transparent)
+
 <!--
 **gchinaul/gchinaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
